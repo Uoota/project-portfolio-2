@@ -240,6 +240,11 @@ a{
         line-height: 51px;
     }
 
+		.hero-img{
+			max-width: 100%;
+			height: auto;
+		}
+
     .skills{
         height: 100%;
         padding-top: 60px;
@@ -267,8 +272,4 @@ a{
     .title-4{
         padding-top: 60px;
     }
-}
-
-@media (max-width: 900px) {
-
 }
